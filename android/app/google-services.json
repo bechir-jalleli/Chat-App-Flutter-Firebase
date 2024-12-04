@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106894589118",
+    "project_id": "chatapp-f8cb3",
+    "storage_bucket": "chatapp-f8cb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106894589118:android:d1b70d36425f0d85f8f2ef",
+        "android_client_info": {
+          "package_name": "com.bechir.chatApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbB6bW3ymwjkG0VvLi1g5tyzB-Z7j3uRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106894589118:android:d0a1472f89743807f8f2ef",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbB6bW3ymwjkG0VvLi1g5tyzB-Z7j3uRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
